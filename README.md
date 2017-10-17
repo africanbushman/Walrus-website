@@ -4,7 +4,7 @@
 
 ## Description
 
-This is a website that shows my progress as a software developer and this repository deals with my introduction to JavaScript and a bit of jquery.  
+This is a website that shows my progress as a software developer and this repository deals with my introduction to JavaScript and jquery.  
 
 ## Setup/Installation Requirements
 
