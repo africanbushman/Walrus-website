@@ -11,7 +11,7 @@ This is a website that shows my progress as a software developer and this reposi
 * A computer.
 * Internet access.
 * A web browser to view the live github pages site.
-* Install Git on you computer if you want to clone it and a working understanding of Git and Github.
+* Install Git on you computer if you want to clone it and have a working understanding of Git and Github, To make your clone process an easy and pleasant one.
 
 
 For the best viewing experience please use a laptop or desktop and if possible using the chrome browser for the best experience possible.
