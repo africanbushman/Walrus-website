@@ -7,7 +7,8 @@ $(document).ready(function() {
     alert("This is a paragraph.");
   });
 
-  $("img").click(function() {
-    alert("This is an image.");
+  $("p").click(function() {
+    $("img").show();
+    });
   });
-});
+      
